@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3a87e94c-f011-4b68-98a9-430b2d10d468}</ProjectGuid>
+    <ProjectGuid>{a2bd4674-1e00-406c-a3c8-c8f6be1284be}</ProjectGuid>
     <RootNamespace>My8958OX퀴즈</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
