@@ -1,7 +1,7 @@
 #include <vector>
 #include <iostream>
 
-/* Problem #15596 정수 N개의 합*/
+/* Problem #15596 Sum of N integers */
 /* https://www.acmicpc.net/problem/15596 */
 long long sum(std::vector<int> &a)
 {
