@@ -13,7 +13,7 @@ int main()
 		points = 0;
 		sum = 0;
 		cin >> s;
-		for (int j = 0; j < s.length(); j++) {
+		for (unsigned int j = 0; j < s.length(); j++) {
 			if (s.at(j) == 'X')
 				points = 0;
 			else
