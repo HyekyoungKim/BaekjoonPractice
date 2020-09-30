@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5622_다이얼", "5622_다�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2941_크로아티아_알파벳", "2941_크로아티아_알파벳\2941_크로아티아_알파벳.vcxproj", "{1A0EBA80-6B97-4E10-9DAB-10FFD82E0BFC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1316_그룹_단어_체커", "1316_그룹_단어_체커\1316_그룹_단어_체커.vcxproj", "{A9C5CE8C-300F-48A7-B45D-F20F783CB480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -169,6 +171,14 @@ Global
 		{1A0EBA80-6B97-4E10-9DAB-10FFD82E0BFC}.Release|x64.Build.0 = Release|x64
 		{1A0EBA80-6B97-4E10-9DAB-10FFD82E0BFC}.Release|x86.ActiveCfg = Release|Win32
 		{1A0EBA80-6B97-4E10-9DAB-10FFD82E0BFC}.Release|x86.Build.0 = Release|Win32
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Debug|x64.ActiveCfg = Debug|x64
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Debug|x64.Build.0 = Debug|x64
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Debug|x86.Build.0 = Debug|Win32
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Release|x64.ActiveCfg = Release|x64
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Release|x64.Build.0 = Release|x64
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Release|x86.ActiveCfg = Release|Win32
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +198,7 @@ Global
 		{68FDCA68-6C03-4973-8ED7-37EDE64E77CF} = {83BDAA3D-F1C0-4EFC-A660-690552F61E04}
 		{E1468F79-F229-4FCC-8B76-1E860926582D} = {83BDAA3D-F1C0-4EFC-A660-690552F61E04}
 		{1A0EBA80-6B97-4E10-9DAB-10FFD82E0BFC} = {83BDAA3D-F1C0-4EFC-A660-690552F61E04}
+		{A9C5CE8C-300F-48A7-B45D-F20F783CB480} = {83BDAA3D-F1C0-4EFC-A660-690552F61E04}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69144363-D637-4A60-A845-FA5493BD1401}
