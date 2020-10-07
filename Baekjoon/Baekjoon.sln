@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1193_분수찾기", "1193_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2869_달팽이는_올라가고_싶다", "2869_달팽이는_올라가고_싶다\2869_달팽이는_올라가고_싶다.vcxproj", "{C198F8A6-4817-4561-AAA3-035F918A07CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10250_ACM_호텔", "10250_ACM_호텔\10250_ACM_호텔.vcxproj", "{CC7E090D-866F-4DED-BE79-622567558841}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{C198F8A6-4817-4561-AAA3-035F918A07CF}.Release|x64.Build.0 = Release|x64
 		{C198F8A6-4817-4561-AAA3-035F918A07CF}.Release|x86.ActiveCfg = Release|Win32
 		{C198F8A6-4817-4561-AAA3-035F918A07CF}.Release|x86.Build.0 = Release|Win32
+		{CC7E090D-866F-4DED-BE79-622567558841}.Debug|x64.ActiveCfg = Debug|x64
+		{CC7E090D-866F-4DED-BE79-622567558841}.Debug|x64.Build.0 = Debug|x64
+		{CC7E090D-866F-4DED-BE79-622567558841}.Debug|x86.ActiveCfg = Debug|Win32
+		{CC7E090D-866F-4DED-BE79-622567558841}.Debug|x86.Build.0 = Debug|Win32
+		{CC7E090D-866F-4DED-BE79-622567558841}.Release|x64.ActiveCfg = Release|x64
+		{CC7E090D-866F-4DED-BE79-622567558841}.Release|x64.Build.0 = Release|x64
+		{CC7E090D-866F-4DED-BE79-622567558841}.Release|x86.ActiveCfg = Release|Win32
+		{CC7E090D-866F-4DED-BE79-622567558841}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -256,6 +266,7 @@ Global
 		{7640323A-A7F0-4DB9-9190-557A044234BB} = {33255CA3-DEE3-4281-9A49-AC1267D648F5}
 		{B979E525-E4AC-4001-9F52-7CB26EDFEB7D} = {33255CA3-DEE3-4281-9A49-AC1267D648F5}
 		{C198F8A6-4817-4561-AAA3-035F918A07CF} = {33255CA3-DEE3-4281-9A49-AC1267D648F5}
+		{CC7E090D-866F-4DED-BE79-622567558841} = {33255CA3-DEE3-4281-9A49-AC1267D648F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69144363-D637-4A60-A845-FA5493BD1401}
