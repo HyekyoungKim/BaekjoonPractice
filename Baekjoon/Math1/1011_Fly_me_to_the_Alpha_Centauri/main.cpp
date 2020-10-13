@@ -4,6 +4,7 @@
 using namespace std;
 
 /* Problem #1011 Fly Me To The Alpha Centauri */
+/* https://www.acmicpc.net/problem/1011 */
 int main() {
 	int T, x, y, dist;
 	cin >> T;
