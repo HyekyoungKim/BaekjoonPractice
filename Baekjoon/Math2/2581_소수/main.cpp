@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* Problem #2581 ¼Ò¼ö(Prime Numbers) */
+/* Problem #2581 Prime Numbers */
 /* https://www.acmicpc.net/problem/2581 */
 int main() {
 	int M, N, sum = 0, min; // All prime numbers are greater than 1.
