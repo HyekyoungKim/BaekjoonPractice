@@ -1,8 +1,8 @@
-#include <iostream>
+ï»¿#include <iostream>
 
 using namespace std;
 
-/* Problem #1978 ¼Ò¼ö Ã£±â */
+/* Problem #1978 ì†Œìˆ˜ ì°¾ê¸°(Finding Prime Numbers) */
 /* https://www.acmicpc.net/problem/1978 */
 int main() {
 	int N, count = 0;

@@ -1,8 +1,8 @@
-#include <iostream>
+﻿#include <iostream>
 
 using namespace std;
 
-/* Problem #2581 �Ҽ� */
+/* Problem #2581 소수(Prime Numbers) */
 /* https://www.acmicpc.net/problem/2581 */
 int main() {
 	int M, N, sum = 0, min; // All prime numbers are greater than 1.
