@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* Problem #2581 소수(Prime Numbers) */
+/* Problem #2581 소수 */
 /* https://www.acmicpc.net/problem/2581 */
 int main() {
 	int M, N, sum = 0, min; // All prime numbers are greater than 1.

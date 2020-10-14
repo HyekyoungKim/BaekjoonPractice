@@ -2,7 +2,7 @@
 
 using namespace std;
 
-/* Problem #1978 소수 찾기(Finding Prime Numbers) */
+/* Problem #1978 소수 찾기 */
 /* https://www.acmicpc.net/problem/1978 */
 int main() {
 	int N, count = 0;
