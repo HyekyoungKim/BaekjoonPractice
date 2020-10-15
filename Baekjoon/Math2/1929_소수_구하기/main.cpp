@@ -1,4 +1,5 @@
 #include <iostream>
+#include <queue>
 
 using namespace std;
 
@@ -7,17 +8,17 @@ using namespace std;
 int main() {
 	int M, N; // 1 <= M <= N <= 1,000,000
 	cin >> M >> N;
-	bool* prime = new bool[N + 1];
-	for (int i = 2; i <= N; i++)
-		prime[i] = true;
+	priority_queue<int, vector<int>, greater<int>> not_prime;
 	for (int i = 2; i <= N; i++) {
-		if (prime[i]) { // i is a prime number
+		if (not_prime.empty() || i != not_prime.top()) { // i is a prime number
 			if (i >= M)
 				cout << i << endl;
 			for (int k = 2; i * k <= N; k++)
-				prime[i * k] = false;
+				not_prime.push(i * k);
 		}
+		else // i is not a prime number
+			while (!not_prime.empty() && i == not_prime.top())
+				not_prime.pop();
 	}
-	delete[] prime;
 	return 0;
 }
